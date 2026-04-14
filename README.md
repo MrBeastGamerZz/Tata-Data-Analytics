@@ -40,7 +40,7 @@ expansion, pricing strategy, customer retention, and marketing budget allocation
 ✅ Task 2 — Choosing the Right Visuals
 Completed a theory-based quiz on data visualisation best practices —
 matching 8 business scenarios to the correct chart type (line, bar, map, scatter, etc.)
-Result: All 8 correct ✅
+Result: All 8 correct 
 
 💡 Key skill: Knowing which visual to use and why — wrong charts mislead decisions.
 
@@ -49,7 +49,13 @@ Result: All 8 correct ✅
 The core hands-on task. Cleaned the raw dataset in Power Query Editor
 (removed returns, pricing errors, fixed date formats), created a calculated
 Revenue column (Quantity × Unit Price), then built 4 executive-ready visuals:
-VisualTypeForMonthly Revenue Trend — 2011Line ChartCEOTop 10 Countries by Revenue & Quantity (Excl. UK)Clustered Bar ChartCMOTop 10 Customers by Revenue (Descending)Clustered Bar ChartCMOGlobal Product Demand by Country (Excl. UK)Filled MapCEO
+| Visual                                                     | Type                  | For |
+|-----------------------------------------------------------|-----------------------|-----|
+| Monthly Revenue Trend — 2011                               | Line Chart            | CEO |
+| Top 10 Countries by Revenue & Quantity (Excl. UK)          | Clustered Bar Chart   | CMO |
+| Top 10 Customers by Revenue (Descending)                   | Clustered Bar Chart   | CMO |
+| Global Product Demand by Country (Excl. UK)                | Filled Map            | CEO |
+
 
 ✅ Task 4 — Communicating Insights to Leadership
 Presented findings in an executive-appropriate format — leading with business
