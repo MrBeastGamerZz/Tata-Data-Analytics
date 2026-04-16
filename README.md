@@ -134,6 +134,6 @@ question it answered.
 ## 🏅 Certificate
 
 **Issued by:** Tata Group via Forage — April 2026
-🔗 [View verified certificate on LinkedIn](#) ← *add your link here*
+🔗 [View verified certificate on LinkedIn](https://www.linkedin.com/posts/manjunathareddyn_tata-analyst-jobsimulation-activity-7450065622962696192-hCSK)
 
 
